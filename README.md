@@ -19,8 +19,11 @@ b.Use JOINS (INNER, LEFT, RIGHT)
  
 c.Write subqueries
 
- query and output screenshot and file(subqueries,sub1,sub2)
+      query and output screenshot and file(subqueries,sub1,sub2)
 
 d.Use aggregate functions (SUM, AVG)
+
+      query and output screenshot and file(sum,sum&avg)
+
 e.Create views for analysis
 f.Optimize queries with indexes
