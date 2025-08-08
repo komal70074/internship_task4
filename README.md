@@ -14,6 +14,9 @@ a.Use SELECT, WHERE, ORDER BY, GROUP BY
       query and output screenshot and file (select,swhere,swhere1,sorder by,sorder by1 ,sorder by 2,sgroup by,sgroup by1,sorderg) 
       
 b.Use JOINS (INNER, LEFT, RIGHT)
+
+       query and output screenshot and file(sinner,sleft,sright)
+ 
 c.Write subqueries
 d.Use aggregate functions (SUM, AVG)
 e.Create views for analysis
