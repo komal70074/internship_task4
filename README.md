@@ -26,4 +26,9 @@ d.Use aggregate functions (SUM, AVG)
       query and output screenshot and file(sum,sum&avg)
 
 e.Create views for analysis
+
+       query and output screenshot and file(view,view1,view2)
+
 f.Optimize queries with indexes
+
+       query and output screenshot and file(index, index1)
